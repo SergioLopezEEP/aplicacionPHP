@@ -1,0 +1,9 @@
+Tipo:adosado
+Zona:sur
+Direccion:Plaza Patricio Aguado
+Dormitorios:3
+Precio:2500
+Tamano:25
+Extras:piscina
+Fto:C:/xampp/htdocs/joomla/php/ProyectoViviendas/img/IMG_0001.jpg
+Observaciones:adpaosjdpoas
